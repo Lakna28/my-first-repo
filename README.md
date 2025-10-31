@@ -1,2 +1,3 @@
-# my-first-repo
-This is my first GitHub repository
+I'm Lakna pratheeshwara
+I'm undergraduate student 
+I'm study Health information and communication Technology
